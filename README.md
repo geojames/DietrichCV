@@ -1,3 +1,3 @@
 # DietrichCV
 
-PDF Version of CV
+See PDF Version of CV above
