@@ -1,3 +1,3 @@
-# DietrichCV
+# Dietrich Curriculum Vitae
 
-See PDF Version of CV above
+PDF Version of my CV is availible above
